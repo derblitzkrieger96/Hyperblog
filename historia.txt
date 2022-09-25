@@ -1,5 +1,5 @@
 Hola 
 
-esto es un texto plano
+esto es un texto plano | y esta linea esta modificada
 
 final del documento
